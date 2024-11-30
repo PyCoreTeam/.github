@@ -4,9 +4,10 @@
 - Educations
   - Ziro
 #### 成员
-- **[ImWuMie](https://www.github.com/ImWuMie)** **__Owner, Developer__
+- **[ImWuMie](https://www.github.com/ImWuMie)** __Owner, Developer__
 - **[Yurnu](https://www.github.com/StarryCamile)** __Owner, Founder, Developer__
 
 ### 项目
 #### [Undef1nedTeam](https://github.com/undef1nedteam)
 - [Gensh1n](https://www.github.com/ImWuMie/Gensh1n)
+- 
