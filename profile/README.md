@@ -6,6 +6,7 @@
 #### 成员
 - **[ImWuMie](https://www.github.com/ImWuMie)** __Owner, Developer__
 - **[Yurnu](https://www.github.com/StarryCamile)** __Owner, Founder, Developer__
+- **[wqj233](https://www.github.com/wqj233)** __Owner, Developer__
 
 ### 项目
 #### [Undef1nedTeam](https://github.com/undef1nedteam)
